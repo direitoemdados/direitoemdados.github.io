@@ -4,8 +4,6 @@ title: Sobre
 permalink: /sobre/
 ---
 
-![About me](/img/imagem_eu.jpg)
-
 
 Este blog é produzido e editado por mim.
 
