@@ -2,7 +2,7 @@
 .call-out {
   @extend %padding-regular;
   display: inline-block;
-  width: 100%;
+  width: 80%;
   background: none repeat scroll 0% 0% $header-desc-background-color;
   font-size: 1.2em;
   text-align: center;
@@ -15,7 +15,7 @@
 .posts {
   .post-teaser {
     @extend %padding-regular;
-    width: 60%;
+    width: 100%;
     margin-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
