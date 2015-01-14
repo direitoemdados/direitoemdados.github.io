@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Segunda Fase da OAB: quais das áreas são mais fáceis de se passar?
+title: Segunda Fase da OAB: quais das áreas são mais fáceis de se passar
 ---
 
 Teste 
