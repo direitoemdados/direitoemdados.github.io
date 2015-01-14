@@ -2,9 +2,6 @@
 layout: post
 title: Segunda Fase da OAB
 author: Guilherme Jardim Duarte
-categories:
-- Exame da OAB
-- Viés de Seleção
 tags: 
 - Exame da OAB
 - Viés de Seleção
