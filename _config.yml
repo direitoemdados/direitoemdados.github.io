@@ -1,17 +1,17 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://direitoemdados.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
   title: Direito em Dados
   avatar: avatar.png
-  description: "Blog sobre Direito, Estatística, Matemática, Jurimetria e assuntos relacionados." # used by search engines
+  description: "Blog sobre Direito, Estatística, Matemática, Jurimetria, Previsões, Programação e assuntos relacionados." # used by search engines
   
   # Header and footer text
   header_text: >
-     <p>Blog sobre Direito, Estatística, Matemática, Jurimetria, Previsões e assuntos relacionados.</p>
+     <img src="img/avatar.png"> </img> <p>Blog sobre Direito, Estatística, Matemática, Jurimetria, Previsões, Programação e assuntos relacionados.</p>
      
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
