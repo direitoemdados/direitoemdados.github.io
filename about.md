@@ -2,9 +2,9 @@
 layout: page
 title: Sobre
 permalink: /sobre/
-feature-img: "img/imagem_eu.png"
 ---
 
+![My helpful screenshot]({{ site.url }}/img/imagem_eu.jpg)
 Este blog é produzido e editado por mim.
 
 Meu nome é Guilherme Duarte. Sou doutorando em Direito do Estado pela [FADUSP](http://www.direito.usp.br) e graduando em Estatística pelo [IME-USP](http://www.ime.usp.br).
