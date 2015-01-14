@@ -5,9 +5,9 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Direito em Dados
   avatar: avatar.png
-  description: "A website with blog posts, and pages." # used by search engines
+  description: "Blog sobre Direito, Estatística, Matemática, Jurimetria e assuntos relacionados." # used by search engines
   
   # Header and footer text
   header_text: >
@@ -19,7 +19,7 @@ theme:
   
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: "gjardimduarte@gmail.com" # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
@@ -35,7 +35,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "twitter.com/guilhermejd_"
   wordpress: 
   youtube: 
   
