@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Este blog é produzido e editado por mim.
 
-Head over to the theme's Github repo for much more information about Type Theme or to install this theme for your very own Jekyll site.
+Meu nome é Guilherme Duarte. Sou doutorando em Direito do Estado pela [FADUSP](http://www.direito.usp.br) e graduando em Estatística pelo [IME-USP](http://www.ime.usp.br).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Quaisquer dúvidas ou sugestões, entre em contato comigo no e-mail [gjardimduarte@gmail.com](mailto:gjardimduarte@gmail.com) ou twitter [@guilhermejd_](http://twitter.com/guilhermejd_)
