@@ -13,7 +13,7 @@ theme:
   header_text: >
      <p>Blog sobre Direito, Estatística, Matemática, Jurimetria, Previsões e assuntos relacionados.</p>
      
-      footer_text: >
+  footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
   
   # Icons
