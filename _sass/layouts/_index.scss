@@ -19,10 +19,11 @@
     @extend %padding-regular;
     width: 45em;
     padding: 5px 0px 5px 10px;
+    margin-top: 5em;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
-    border-right-style: double;
+    border-right-style: solid;
     p a:hover {
       @extend %link-hover;
     }
