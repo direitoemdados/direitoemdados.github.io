@@ -16,11 +16,11 @@
    margin: 0em;
    padding: 0px 0px 0px 0px;
    border: 0em;
-   width: 50em;
+   width: 100px;
    background-color: #FFFFDD;
   .post-teaser {
     @extend %padding-regular;
-    width: 50em;
+    width: 100px;
     margin: 0em;
     padding: 5px 0px 5px 10px;
     border: 0em;
@@ -39,7 +39,7 @@
   
 }
 .resto {  
-    width: 50em;
+    width: 100px;
 	padding: 5px 0px 5px 10px;
    }
 // pagination
