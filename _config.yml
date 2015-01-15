@@ -14,7 +14,7 @@ theme:
      <img src="img/avatar.png" height="190" width="190"> </img> <p>Blog sobre Direito, Estatística, Matemática, Jurimetria, Previsões, Programação e assuntos relacionados.</p>
      
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>. Based on <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>.
   
   # Icons
   rss: false
