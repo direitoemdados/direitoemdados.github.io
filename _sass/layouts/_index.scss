@@ -17,7 +17,7 @@
    display: inline-block;
   .post-teaser {
     @extend %padding-regular;
-    width: 100px;
+    width: 50em;
     padding: 5px 0px 5px 10px;
     display: inline-block;
     background-size: $feature-image-size;
@@ -35,7 +35,7 @@
 }
 .resto {  
     display: inline-block;
-    width: 100px;
+    width: 50em;
     padding: 5px 0px 5px 10px;
    }
 // pagination
