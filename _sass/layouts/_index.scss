@@ -19,11 +19,11 @@
     @extend %padding-regular;
     width: 45em;
     padding: 5px 0px 5px 10px;
-    margin-top: 5em;
+    border-top: 5em;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
-    border-right-style: solid;
+    border-right: 1px solid $border-color;
     p a:hover {
       @extend %link-hover;
     }
@@ -35,6 +35,7 @@
   
 }
 .resto {  
+    background-color: #FFFFDD;
     display: inline-block;
     padding: 5px 0px 5px 10px;
    }
