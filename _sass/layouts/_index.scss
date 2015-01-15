@@ -14,15 +14,13 @@
 // post listing
 .posts {
   .post-teaser {
-    h1 {
-        font-size: 0.9;
-    }
     @extend %padding-regular;
     width: 50em;
     margin-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
+    border-right-style: double;
     p a:hover {
       @extend %link-hover;
     }
