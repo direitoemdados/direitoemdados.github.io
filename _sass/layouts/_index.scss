@@ -18,7 +18,7 @@
     @extend %padding-regular;
     width: 50em;
     margin: 0em;
-    padding: 0em;
+     padding: 5px 0px 5px 10px;
     border: 0em;
     display: inline-block;
     background-size: $feature-image-size;
@@ -34,9 +34,7 @@
   }
   .resto {  
     width: 50em;
-    margin: 0em;
-    padding: 0em;
-    border: 0em;
+	padding: 5px 0px 5px 10px;
    }
 }
 // pagination
