@@ -16,7 +16,7 @@
   .post-teaser {
     @extend %padding-regular;
     width: 50em;
-    margin-bottom: 0;
+    margin: 0em;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
