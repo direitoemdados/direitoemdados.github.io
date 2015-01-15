@@ -13,12 +13,15 @@
 }
 // post listing
 .posts {
+   margin: 0em;
+   padding: 5px 0px 5px 10px;
+   border: 0em;
    background-color: #FFFFDD;
   .post-teaser {
     @extend %padding-regular;
     width: 50em;
     margin: 0em;
-     padding: 5px 0px 5px 10px;
+    padding: 5px 0px 5px 10px;
     border: 0em;
     display: inline-block;
     background-size: $feature-image-size;
@@ -32,11 +35,12 @@
     margin-top: 1em;
     font-size: .8em;
   }
-  .resto {  
+  
+}
+.resto {  
     width: 50em;
 	padding: 5px 0px 5px 10px;
    }
-}
 // pagination
 .pagination .button {
   margin-left: 1em;
