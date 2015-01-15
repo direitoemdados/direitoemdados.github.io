@@ -14,6 +14,9 @@
 // post listing
 .posts {
   .post-teaser {
+    h1 {
+        font-size: 0.9;
+    }
     @extend %padding-regular;
     width: 50em;
     margin-bottom: 0;
