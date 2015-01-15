@@ -14,6 +14,7 @@
 // post listing
 .posts {
    background-color: #FFFFDD;
+   width: 300em;
   .post-teaser {
     @extend %padding-regular;
     width: 50em;
@@ -30,6 +31,9 @@
     margin-top: 1em;
     font-size: .8em;
   }
+  .resto {
+  width: 300em;
+   }
 }
 // pagination
 .pagination .button {
