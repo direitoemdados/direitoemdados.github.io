@@ -1,6 +1,7 @@
 .site-header {
   @extend %padding-small;
   background: $brand-color;
+  background-color: orange;
   border-bottom: 1px solid $border-color;
   display: inline-block;
   float: left;
@@ -22,7 +23,7 @@
   .site-title {
     float: left;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 3em;
     line-height: 1.5;
   }
 
