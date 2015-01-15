@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Existe uma Área mais fácil na Segunda Fase do Exame da OAB? Um exemplo de viés de seleção"
+title: "Existe uma Disciplina mais fácil na Segunda Fase do Exame da OAB? Um exemplo de viés de seleção"
 author: "Guilherme Jardim Duarte"
 ---
 
