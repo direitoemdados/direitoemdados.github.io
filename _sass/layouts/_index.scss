@@ -13,7 +13,6 @@
 }
 // post listing
 .posts {
-   background-color: #FFFFDD;
    display: inline-block;
   .post-teaser {
     @extend %padding-regular;
@@ -35,7 +34,6 @@
   
 }
 .resto {  
-    background-color: #FFFFDD;
     margin: 0px;
     border: 1px;
     padding: 2em;
