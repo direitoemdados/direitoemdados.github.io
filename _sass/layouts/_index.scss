@@ -16,8 +16,10 @@
    background-color: #FFFFDD;
   .post-teaser {
     @extend %padding-regular;
-    width: 20em;
+    width: 50em;
     margin: 0em;
+    padding: 0em;
+    border: 0em;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
@@ -30,8 +32,11 @@
     margin-top: 1em;
     font-size: .8em;
   }
-  .resto {
-  width: 20em;
+  .resto {  
+    width: 50em;
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
    }
 }
 // pagination
